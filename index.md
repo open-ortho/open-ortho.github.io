@@ -3,9 +3,14 @@
 ## Scope/Mission
 
 Our mission is to bring real interoperability to the people in the orthodontic
-domain. We 
+domain.
+
+
+## The Problem
 
 ![Two medical staff members can't connect their devices together, because they plugs are not compatible](./assets/img/NoOrthoCompatibility_Plug.jpg "No Compatibility")
+
+As of 2021, it is astoundingly still very difficult to set up two or more orthodontic software products to communicate with each other.
 
 ## Values
 
@@ -17,7 +22,13 @@ We envision a world where
 
 ## Strategic Plan
 
-TODO
+TODO: Add graphical representation of timeline
+ 
+
+## Our Projects
+
+* [dicom4ortho](https://github.com/open-ortho/dicom4ortho): A Python library to create fully defined orthodontic photographs in DICOM.
+* [dcm4ceph](https://github.com/open-ortho/dcm4ceph): Convert Cephalograms from JPEG to DICOM. Cephalograms are 2D radiographs of the cranium, taken by following standards which allow providers to take measurements and make clinical decisions from them.
 
 ## Resources
 
