@@ -13,3 +13,4 @@ github:
   zip_url: http://example.com/download.zip
   tar_url: http://example.com/download.zip
   repository_url: 
+  is_user_page: false
