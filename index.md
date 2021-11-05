@@ -4,11 +4,22 @@
 
 Our mission is to bring real interoperability to the people in the orthodontic domain.
 
-## The Problem
+## A Problem
 
-![Two medical staff members can't connect their devices together, because they plugs are not compatible](./assets/img/NoOrthoCompatibility_Plug.jpg "No Compatibility")
+![Two medical staff members can't connect their devices together.](./assets/img/NoOrthoCompatibility_Plug.jpg "No Compatibility")
 
 As of 2021, it is astoundingly still very difficult to set up two or more orthodontic software products to communicate with each other. Most software products are unable to communicate effectively and openly with other software products from other vendors, creating closed, isolated silos of data. This causes trivial everyday tasks to be unnecessarily time consuming, repetitive, error-prone and tedious.
+
+## Another Problem
+
+![Two doctors have to look over each other's screen to share information.](./assets/img/NoOrthoCompatibility_Screen.jpg "No Compatibility")
+
+As of 2021, it is also astoundingly very difficult to share information between different medical institutions. Several portals exist, however most (all?) of them work with a limited set of institutions, and these portals don't communicate with each other. 
+
+Let's compare this for a moment with how email works: with email any company can set up their email servers and exchange email with any end user and any other company's email server. 
+
+Why can't we do the same for orthodontic data?
+
 
 ## Strategic Plan
 
