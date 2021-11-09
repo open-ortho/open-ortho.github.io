@@ -28,7 +28,29 @@ We believe informatics standards like DICOM, HL7 and SNOMED/SNODENT to be an eff
 - Facilitate adoption of standards through education and simplification.
 - Aim efforts to all actors of the orthodontic community (doctors, associations, standard developing organizations, IT teams, schools, students). 
 
-<!-- TODO: Add graphical representation of timeline -->
+<!-- TODO: Add graphical representation of timeline 
+
+- 2021-Q2 Implementation of VNA on beta practices
+- 2021-Q3
+- 2021-Q4
+- 2022-Q1 Development and implementation of efficiency measurement system
+- 2022-Q2 Development of Standards for Photography (DICOM, SNODENT)
+- 2022-Q3 Implementation of Photographic standards (open-source, github)
+- 2022-Q4 Development and implementation of first photographic archiving application: DICOM ortho-photo-archiver
+- 2023-Q1 Comparison of efficiency between pre and post DICOM ortho-photo-archiver: publication of findings.
+- Development and implementation of first photographic acquisition application: DICOM ortho-photo acquirer
+- Development of Standards for 2D Radiographs (cephalograms/panoramic x-rays) (DICOM, SNODENT, IHE, ...)
+- Development of tools to convert flat cephalograms into DICOM and store in VNA: DICOM ortho-ceph-archiver
+- 2023-Q2 First orthodontic interoperability booth at AAO
+- 2023-Q3
+- 2023-Q4
+- 2024-Q1
+- 2024-Q2
+- 2024-Q3
+- 2024-Q4
+- 2025-Q2 First orthodontic Connectathon at AAO
+
+-->
 
 <!-- ## Values
 
