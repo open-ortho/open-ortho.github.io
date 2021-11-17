@@ -67,8 +67,10 @@ We envision a world where
 
 ## Our Projects
 
+- [panio.info](https://confluence.panio.info): Our Confluence wiki collaboration platform.
 - [dicom4ortho](https://github.com/open-ortho/dicom4ortho): A Python library to create fully defined orthodontic photographs in DICOM.
 - [dcm4ceph](https://github.com/open-ortho/dcm4ceph): Convert Cephalograms from JPEG to DICOM. Cephalograms are 2D radiographs of the cranium, taken by following standards which allow providers to take measurements and make clinical decisions from them.
+- [Orthodontic Photos Video Presentation](https://youtu.be/7fZIQxOjb6c): a video we produced to apply for the American Association of Orthodontics Innovators Award.
 
 <!-- ## Resources
 
