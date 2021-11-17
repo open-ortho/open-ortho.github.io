@@ -20,10 +20,11 @@ Let's compare this for a moment with how email works: with email any company can
 
 Why can't we do the same for orthodontic data?
 
-
-## Strategic Plan
+## Solution
 
 We believe informatics standards like DICOM, HL7 and SNOMED/SNODENT to be an effective solution to orthodontic software isolation. Permanent changes can happen in a community when the vast majority of the community members are on board and willing to make the change. Our plan to turn this into a reality includes:
+
+### Strategic Plan
 
 - Facilitate adoption of standards through education and simplification.
 - Aim efforts to all actors of the orthodontic community (doctors, associations, standard developing organizations, IT teams, schools, students). 
