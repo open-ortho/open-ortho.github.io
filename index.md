@@ -14,9 +14,9 @@ As of 2021, it is astoundingly still very difficult to set up two or more orthod
 
 ![Two doctors have to look over each other's screen to share information.](./assets/img/NoOrthoCompatibility_Screen.jpg "No Compatibility")
 
-As of 2021, it is also astoundingly very difficult to share information between different medical institutions. Several portals exist, however most (all?) of them work with a limited set of institutions, and these portals don't communicate with each other. 
+As of 2021, it is also astoundingly very difficult to share information between different medical institutions. Several portals exist, however most (all?) of them work with a limited set of institutions, and these portals don't communicate with each other.
 
-Let's compare this for a moment with how email works: with email any company can set up their email servers and exchange email with any end user and any other company's email server. 
+Let's compare this for a moment with how email works: with email any company can set up their email servers and exchange email with any end user and any other company's email server.
 
 Why can't we do the same for orthodontic data?
 
@@ -27,9 +27,9 @@ We believe informatics standards like DICOM, HL7 and SNOMED/SNODENT to be an eff
 ### Strategic Plan
 
 - Facilitate adoption of standards through education and simplification.
-- Aim efforts to all actors of the orthodontic community (doctors, associations, standard developing organizations, IT teams, schools, students). 
+- Aim efforts to all actors of the orthodontic community (doctors, associations, standard developing organizations, IT teams, schools, students).
 
-<!-- TODO: Add graphical representation of timeline 
+<!-- TODO: Add graphical representation of timeline
 
 - 2021-Q2 Implementation of VNA on beta practices
 - 2021-Q3
@@ -71,6 +71,7 @@ We envision a world where
 - [panio.info](https://confluence.panio.info): Our Confluence wiki collaboration platform.
 - [dicom4ortho](https://github.com/open-ortho/dicom4ortho): A Python library to create fully defined orthodontic photographs in DICOM.
 - [dcm4ceph](https://github.com/open-ortho/dcm4ceph): Convert Cephalograms from JPEG to DICOM. Cephalograms are 2D radiographs of the cranium, taken by following standards which allow providers to take measurements and make clinical decisions from them.
+- [Slides of Introductory Presentation](https://open-ortho.github.io/ACT-12.4.1)
 - [Orthodontic Photos Video Presentation](https://youtu.be/7fZIQxOjb6c): a video we produced to apply for the American Association of Orthodontics Innovators Award.
 
 <!-- ## Resources
