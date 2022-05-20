@@ -68,6 +68,7 @@ We envision a world where
 
 ## Our Projects
 
+- [#open-ortho:matrix.org](https://matrix.to/#/#open-ortho:matrix.org): Official chat-room.
 - [panio.info](https://confluence.panio.info): Our Confluence wiki collaboration platform.
 - [ortho-tank](https://github.com/open-ortho/ortho-tank): Documentation and scripts to simplify the installation and maintenance of an Orthanc based PACS Imaging Server for the orthodontic practice.
 - [dicom4ortho](https://github.com/open-ortho/dicom4ortho): A Python library to create fully defined orthodontic photographs in DICOM.
