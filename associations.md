@@ -1,6 +1,5 @@
 ---
-layout: default
-title:
-permalink: vendors
+layout: page
+title: Associations
 ---
 

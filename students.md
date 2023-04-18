@@ -1,6 +1,6 @@
 ---
-layout: default
-title:
-permalink: vendors
+layout: page
+title: Students
+permalink: students
 ---
 
