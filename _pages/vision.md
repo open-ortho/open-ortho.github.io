@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Vision
+permalink: /how/vision
+type: how
 ---
 
 We envision a world where

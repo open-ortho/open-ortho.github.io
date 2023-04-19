@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Associations and Foundations
+type: who
+permalink: /who/associations/
 ---
 
 Associations and foundations play a fundamental role in the implementation of open-standard based interoperability. By promoting and supporting the usage of open standards, 

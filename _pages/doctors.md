@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Doctors
-permalink: doctors
+permalink: /who/doctors
+type: who
 ---
 
