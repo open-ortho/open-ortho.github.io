@@ -4,8 +4,13 @@ plugins:
 
 title: [open-ortho]
 logo: /assets/img/logo-small.png
+author: Toni Magni
 description: [Clinical interoperability based on open standards.]
 show_downloads: false
+
+collections:
+  pages:
+    output: true
 
 # google_analytics: [Your Google Analytics tracking ID]
 
