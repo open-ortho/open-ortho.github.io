@@ -28,7 +28,14 @@ We believe informatics standards like DICOM, HL7 and SNOMED/SNODENT to be an eff
 ### Strategic Plan
 
 - Facilitate adoption of standards through education and simplification.
-- Aim efforts to all actors of the orthodontic community (doctors, associations, standard developing organizations, IT teams, schools, students).
+- Aim efforts to all actors of the orthodontic community:
+    - [doctors](doctors)
+    - [associations](associations)
+    - [standard developing organizations](sdo)
+    - [IT teams](it-teams)
+    - [schools](academia)
+    - [students](academia)
+    - [vendors](vendors)
 
 <!-- TODO: Add graphical representation of timeline
 
