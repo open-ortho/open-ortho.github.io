@@ -4,10 +4,13 @@ permalink: blog
 title: Blog
 ---
 
+
+<p>We haven't been blogging in a while. So here are some of our old entries.</p>
+
 <ul>
     {% for post in site.posts %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date }})
+        <a href="{{ post.url }}">{{ post.date | date: '%Y-%m-%d' }} - {{ post.title | truncate: 55 }}</a>
       </li>
     {% endfor %}
   </ul>
