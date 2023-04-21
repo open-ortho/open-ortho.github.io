@@ -4,6 +4,8 @@ layout: page
 permalink: /what/
 ---
 
+_If you just jumped in here, you might want to read [Why](/why/) first._
+
 We have defined the [problems here]({{ site.baseurl }}/why/). But what can we do? Problems like these have existed in the past of humanity, and we have been conventionally able to overcome them agreeing on a common language, a standard. This has proven extremely successful for example in the case for measurement units (SI units), shipping containers, rail track gauges, tire sizes and codes, electrical sockets and plugs, screws, networking (TCP/IP), email, SMS, ...
 
 
@@ -22,7 +24,7 @@ There are hurdles. Software developers are resilient to implementing standards f
     1. charging the customer for importing data (data conversion)
     1. trying to lock the customer in for as long as possible, at the cost of purposely removing or disabling software functionality which the customer could use to more easily transition to another competing vendor
 
-These hurdles need to be overcome before the solution can be applied. But [How](/how/)?
+These hurdles need to be overcome before the solution can be applied. We need to change the way an entire community operates. But [How](/how/)?
 
 
 ## See Also
