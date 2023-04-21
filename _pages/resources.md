@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+permalink: /resources/
 ---
 
 - [#open-ortho:matrix.org](https://matrix.to/#/#open-ortho:matrix.org): Official chat-room.

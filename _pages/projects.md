@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our Projects
+permalink: /projects/
 ---
 
 - [ovena](https://github.com/open-ortho/ovena): Documentation and scripts to simplify the installation and maintenance of an Orthanc based PACS Imaging Server for the orthodontic practice.

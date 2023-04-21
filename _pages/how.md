@@ -13,7 +13,7 @@ There are really two ways to get a community to change the way they do things:
 1. The change is imposed from above, legislation.
 2. The entire community understands that a change needs to happen.
 
-Changes are typically bound to happen if either one of these situations occur. Our approach is to make both of them occur. 
+Changes are typically bound to happen if either one of these situations occur. Our approach to maximize the chances of success is to make both of them occur. 
 
 ## Change coming from above: legislation
 
@@ -45,16 +45,12 @@ If each of these actors had a complete understanding of the problem and what the
 
 ### Complete understanding of the problem
 
-In order to gain complete understanding of any new concept, the human mind needs to be exposed to it over and over again. Sporadic one time events will enter one ear, and exit the other, because the individual will not understand the relevance of the subject until they hear or read about it many times from different sources.
+In order to gain complete understanding of any new concept, the human mind needs to be exposed to it over and over again. Sporadic one time events will enter one ear, and exit the other. The individual will not understand the relevance of the subject until they hear or read about it many times from different sources. Education is therefore a necessary step.
 
-## Strategic Plan
+How education is address for each actor is specified in the each actor page linked above.
 
-- Facilitate adoption of standards through education and simplification.
-- Aim efforts to all actors of the orthodontic community:
-
-
+## See Also
 
 {% assign how_pages = site.pages | where: "type", "how" %}
 {% for page in how_pages %}
-- [{{ page.title }}]({{ page.url }})
-{% endfor %}
+- [{{ page.title }}]({{ page.url }}){% endfor %}
