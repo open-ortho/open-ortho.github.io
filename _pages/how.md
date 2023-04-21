@@ -45,7 +45,7 @@ If each of these actors had a complete understanding of the problem and what the
 
 ### Complete understanding of the problem
 
-In order to gain complete understanding of any new concept, the human mind needs to be exposed to it over and over again. Sporadic one time events will enter one year, and exit the other, because the individual will not understand the relevance of the subject until they hear or read about it many times from different sources.
+In order to gain complete understanding of any new concept, the human mind needs to be exposed to it over and over again. Sporadic one time events will enter one ear, and exit the other, because the individual will not understand the relevance of the subject until they hear or read about it many times from different sources.
 
 ## Strategic Plan
 
