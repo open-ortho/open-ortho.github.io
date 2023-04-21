@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Interoperability
-type: how
-permalink: /how/interoperability/
+type: what
+permalink: /what/interoperability/
 ---
 
-Interoperability appears to be the only sustainable and affordable solution to the issues discussed [above](/why/). But true global and sustainable interoperability is only possible making use of a open and standard communication protocol which is approved by the medical community.
+Interoperability appears to be the only sustainable and affordable solution to the issues discussed [above]({{ site.baseurl }}/why/). But true global and sustainable interoperability is only possible making use of a open and standard communication protocol which is approved by the medical community.
 
 What do we mean by _interoperability_?
 

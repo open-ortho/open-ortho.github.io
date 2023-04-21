@@ -12,7 +12,7 @@ The orthodontic providers need to share data
 
 However, they do not know how to do in a safe and secure way, and frequently end up doing it like this:
 
-![Sharing data with iPhone](/assets/img/kirt.png)
+![Sharing data with iPhone]({{ site.baseurl }}/assets/img/kirt.png)
 
 ## What are the problems with this method?
 
