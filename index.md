@@ -37,6 +37,8 @@ We believe informatics standards like DICOM, HL7 and SNOMED/SNODENT to be an eff
     - [students](academia)
     - [vendors](vendors)
 
+See [How it can be done]({% link _pages/how.md %}) for details.
+
 <!-- TODO: Add graphical representation of timeline
 
 - 2021-Q2 Implementation of VNA on beta practices
