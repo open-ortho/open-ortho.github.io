@@ -7,7 +7,7 @@ title: Software interoperability for Orthodontics
 
 ## Meeting for Vendors at AAO 2023 Chicago
 
-if you are a vendor, please join us at our meeting. [Click here for details.]({{% link _pages/aao_2023.md %}})
+if you are a vendor, please join us at our meeting. [Click here for details.]({{% link ./aao_2023.md %}})
 
 -----
 
