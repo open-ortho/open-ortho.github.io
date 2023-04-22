@@ -17,8 +17,10 @@ Things that associations and foundations can do:
 
 ## Project funding
 
-If a foundation is providing funding for specific innovation or research projects, in the application form a requirement for making use of open standards to import and export data could be added.
+If a foundation is providing funding for specific innovation or research projects, in the application form a requirement for making use of open standards to import and export data could be added. This alone would be of almost zero cost to the foundation, yet provide a huge drive for applicants to implement standards.
+
+The [NIH](https://datascience.nih.gov/fhir-initiatives) and the [NSF](https://www.nsf.gov/pubs/2022/nsf22553/nsf22553.htm) have already started moving in this direction.
 
 ## Inform members
 
-Articles in journal, morning huddle emails, courses and information booths at meetings 
+Articles in journal, morning huddle emails, courses and information booths at meetings.
