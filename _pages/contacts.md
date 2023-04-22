@@ -20,5 +20,5 @@ author:
 permalink: "/who/contacts/"
 type: "who"
 ---
-<p>You can reach Toni Magni at <a href="mailto:panio@antoniomagni.org">panio@antoniomagni.org</a>.</p>
-<p>Thank you for your interest.</p>
+
+You can reach Toni Magni at [open-ortho@case.edu](mailto:open-ortho@case.edu).
