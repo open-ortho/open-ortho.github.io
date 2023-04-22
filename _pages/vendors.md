@@ -27,7 +27,7 @@ And who knows, depending on the license agreements, you might even be able to se
 
 ### Monetizing on new generic products
 
-Say you have a practice management product, and you decide to add a new piece of software to your arsenal. Maybe an app that will allow the staff of the orthodontic practice to easily take photographs and import them directly into the patient chart. Currently, you can only market this product to those who already possess your practice management software. However, if your app were able to send the photographs to a DICOM PACS server, and load patient information from it, you could sell this product to any doctor.
+Say you have a practice management product, and you decide to add a new piece of software to your arsenal. Maybe an app that will allow the staff of the orthodontic practice to easily take photographs and import them directly into the patient chart. Currently, you can only market this product to those who already possess your practice management software. However, if your app were able to send the photographs to a DICOM VNA server, and load patient information from it, you could sell this product to any doctor.
 
 
 ### Monetizing on existing products
