@@ -3,6 +3,14 @@ layout: page
 title: Software interoperability for Orthodontics
 ---
 
+-----
+
+## Meeting for Vendors at AAO 2023 Chicago
+
+if you are a vendor, please join us at our meeting. [Click here for details.]({{% link _pages/aao_2023.md %}})
+
+-----
+
 Our mission is to bring sustainable interoperability to the people in the orthodontic domain.
 
 ## A Problem
