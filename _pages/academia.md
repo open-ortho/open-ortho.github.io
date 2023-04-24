@@ -30,6 +30,11 @@ Finding an answer to these questions will help you prepare for when you will nee
 4. When you are using another program, one that is not the main one, do you have to manually create the patient there, even though it already exists in the main system?
     - If so, why?
     - If not, what is basic mechanism that allows this to happen? If you wanted to replicate it in your own practice, what are the questions you would need to ask a software vendor to make it happen?
+5. Are there any research projects going on at your institution, which make use of clinical data? If so, is it possible to use open-standards for them?
+6. When you are collecting data for clinical research, and you are cleaning it up, in order to be able to use it, consider anonymizing it, and converting it into an open standard like DICOM and HL7. By doing so, you will achieve the following advantages:
+   1. Any tool or precedure you created or came up with to do this procedure can now also be used by others, and therefore can become part of you pubblication. You might also be able to publish your code on Github so that other developers can benefit from it. 
+   2. The data you now so meticulosly helped cleaning up, is not limited to this study only: if you converted it to an open-standard, it can be used by others as well, both inside and outside your institution.
+
 
 ## Teachers
 
@@ -48,4 +53,5 @@ What kind of action? First we need to gain awareness of how the informatics work
    2. Can they provide access to all clinical data via HL7?
 5. Work with computer science or biomedical engineering students to develop the missing connections, always making sure that the clinical data is transferred making use of open standards.
 6. Publish this work both in peer-reviewed journals, and publish the code on Github, making it open-source, so that other instututions and other vendors can benefit from it.
+7. Any research project that requires researchers to import and clean up clinical data should then save this data back into an open standard (DICOM if it's image related, HL7 otherwise). This will make your pool of clinical data grow, research after research, using funding received from grants. As this pool grows, you will be able to profit from it.
 7. Teach students the basics of clinical data and how it should be managed in the practice. This is very important and can have a significant impact in the future of the profession.
