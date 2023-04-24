@@ -33,9 +33,19 @@ Finding an answer to these questions will help you prepare for when you will nee
 
 ## Teachers
 
-As a university professor, there are various things that you can do, which will help with the adoption of open-standards:
+As a university professor, we need to remember that one of the main reasons open standards are not widely implemented yet is because of a lack of demand from our side. Therefore, if we want to increase adoption of open standards, it is required that we demand them from the vendors. Action on our part is necessary.
 
-1. Teach students the basics of clinical data and how it should be managed in the practice. This is very important and can have a significant impact in the future of the profession.
-2. Find out the answers to same questions above.
-3. Find out what is missing for the clinic of your institution to achieve the ideal situation described at the beginning of this page. Are there situation in which interoperability could be improved?
-4. If you have an archive of clinical images or other data that is not in DICOM or HL7, you could apply for funding to convert it to DICOM. This will facilitate using it for research.
+What kind of action? First we need to gain awareness of how the informatics workflow of our department is negatively impacted by the lack of open standards, and then we need to move forward to rectify this.
+
+1. Find out the answers to same questions above.
+2. Find out what is missing for the clinic of your institution to achieve the ideal situation described at the beginning of this page. Are there situation in which interoperability could be improved? Then work with vendors to fix these situations. 
+3. If you have an archive of clinical images or other clinical data used for research, make sure that:
+   1. When shared with other researches, it is always shared in DICOM or HL7
+   2. When used for local research, that all tools for local research are done in DICOM or HL7.
+4. When applying for grants for projects, if the project has to do with clinical informatics, always make sure you plan to use open standards, and include this in the requests: This may greatly increase the chances of your funding being approved.
+4. Work with vendors:
+   1. Can they store all acquired images in a DICOM VNA? Can they make it happen?
+   2. Can they provide access to all clinical data via HL7?
+5. Work with computer science or biomedical engineering students to develop the missing connections, always making sure that the clinical data is transferred making use of open standards.
+6. Publish this work both in peer-reviewed journals, and publish the code on Github, making it open-source, so that other instututions and other vendors can benefit from it.
+7. Teach students the basics of clinical data and how it should be managed in the practice. This is very important and can have a significant impact in the future of the profession.
