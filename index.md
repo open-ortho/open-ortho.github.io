@@ -5,45 +5,47 @@ title: Software interoperability for Orthodontics
 
 -----
 
-## Meeting for Vendors at AAO 2023 Chicago
+## Interoperability Survery for Vendors 
 
-if you are a vendor, please join us at our meeting. [Click here for details.]({{ site.baseurl }}/aao2023_vendors_meeting/)
+If you are a vendor, please fill out the [AAO interoperability survey](https://survey.alchemer.com/s3/7255096/Orthodontic-Software-Interoperability-Survey).
 
 -----
 
 Our mission is to bring sustainable interoperability to the people in the orthodontic domain.
 
-## A Problem
+## [A Problem]({% link _pages/connecting.md %})
 
 ![Two medical staff members can't connect their devices together.](./assets/img/NoOrthoCompatibility_Plug.jpg "No Compatibility")
 
 As of 2021, it is astoundingly still very difficult to set up two or more orthodontic software products to communicate with each other. Most software products are unable to communicate effectively and openly with other software products from other vendors, creating closed, isolated silos of data. This causes trivial everyday tasks to be unnecessarily time consuming, repetitive, error-prone and tedious.
 
-## Another Problem
+## [Another Problem]({% link _pages/data_sharing.md %})
 
 ![Two doctors have to look over each other's screen to share information.](./assets/img/NoOrthoCompatibility_Screen.jpg "No Compatibility")
 
-As of 2021, it is also astoundingly very difficult to share information between different medical institutions. Several portals exist, however most (all?) of them work with a limited set of institutions, and these portals don't communicate with each other.
+As of 2023, it is also astoundingly very difficult to share information between different medical institutions. Several portals exist, however most (all?) of them work with a limited set of institutions, and these portals don't communicate with each other.
 
 Let's compare this for a moment with how email works: with email any company can set up their email servers and exchange email with any end user and any other company's email server.
 
 Why can't we do the same for orthodontic data?
 
-## Solution
+## [More Problems]({% link _pages/why.md %})
+
+## [Solution]({% link _pages/what.md %})
 
 We believe informatics standards like DICOM, HL7 and SNOMED/SNODENT to be an effective solution to orthodontic software isolation. Permanent changes can happen in a community when the vast majority of the community members are on board and willing to make the change. Our plan to turn this into a reality includes:
 
-### Strategic Plan
+## [Strategic Plan]({% link _pages/how.md %})
 
 - Facilitate adoption of standards through education and simplification.
 - Aim efforts to all actors of the orthodontic community:
-    - [doctors](doctors)
-    - [associations](associations)
-    - [standard developing organizations](sdo)
-    - [IT teams](it-teams)
-    - [schools](academia)
-    - [students](academia)
-    - [vendors](vendors)
+    - [doctors]({% link _pages/doctors.md %})
+    - [associations]({% link _pages/associations.md %})
+    - [standard developing organizations]({% link _pages/associations.md %})
+    - [IT teams]({% link _pages/it-teams.md %})
+    - [schools]({% link _pages/academia.md %})
+    - [students]({% link _pages/academia.md %})
+    - [vendors]({% link _pages/vendors.md %})
 
 See [How it can be done]({% link _pages/how.md %}) for details.
 
