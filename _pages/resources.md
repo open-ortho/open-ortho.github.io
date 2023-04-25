@@ -9,6 +9,13 @@ permalink: /resources/
 - [Slides](https://open-ortho.github.io/ACT-12.4.1) of presentations.
 - [Orthodontic Photos Video Presentation](https://youtu.be/7fZIQxOjb6c): a video we produced to apply for the American Association of Orthodontics Innovators Award.
 
+## Articles 
+
+- [Taneva, Emilia, Budi Kusnoto, and Carla A. Evans. "3D scanning, imaging, and printing in orthodontics." Issues in contemporary orthodontics 148.5 (2015): 862-7.](https://www.intechopen.com/chapters/48165) - [Local PDF Here]({% link assets/img/2015_3D_Scanning,_Imaging,_and_Printing_in_Orthodontics.pdf %})
+- [Could Dentist Participation in HIE Unlock Patient-Centered Care?](https://ehrintelligence.com/features/could-dentist-participation-in-hie-unlock-patient-centered-care) - [Cached PDF Here]({% link assets/img/Could_Dentist_Participation_in_HIE_Unlock_Patient-Centered_Care_.pdf %})
+- [Finances Stymie Patient Data Sharing, Interoperability at FQHCs](https://ehrintelligence.com/news/finances-stymie-patient-data-sharing-interoperability-at-fqhcs) - [Cached PDF Here]({% link assets/img/Finances_Stymie_Patient_Data_Sharing,_Interoperability_at_FQHCs.pdf %})
+- [Death by a Thousand Clicks: Where Electronic Health Records Went Wrong](http://fortune.com/longform/medical-records/) - [Cached PDF Here]({% link assets/img/Death_by_a_Thousand_Clicks.pdf %})
+- [Zeller GG. Standards and Informatics. The Journal of the American Dental Association. 2022 May 1;153(5):403-4.](https://doi.org/10.1016/j.adaj.2022.02.005) - [Cached PDF Here]({% link assets/img/2022_05_JADA_Informatics-Standards_Zeller.pdf %})
 
 ## Orthodontic standards
 
