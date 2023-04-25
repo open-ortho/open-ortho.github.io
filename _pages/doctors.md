@@ -9,4 +9,4 @@ As an orthodontist, we need to remember that one of the main reasons open standa
 
 What kind of action? First we need to gain awareness of how the informatics workflow of our practice is negatively impacted by the lack of open standards, and then we need to move forward to rectify this.
 
-Take a look at the list of questions for [Students]({% link _pages/academia.md % }).
+Take a look at the list of questions for [Students]({% link _pages/academia.md %}).
