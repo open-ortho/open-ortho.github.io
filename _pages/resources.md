@@ -26,6 +26,24 @@ permalink: /resources/
 
 ## Public sector
 
+- [ADA: Information Blocking and Interoperability](https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/advocacy/211104_onc_factsheet_finalrule_informationblocking.pdf)
+  - [Local Copy]({% link assets/img/211104_onc_factsheet_finalrule_informationblocking.pdf %})
+  - [Information Blocking ADA Presentation Slides]({% link assets/img/Information_Blocking_ADA_ONC_JAN2023.pptx %})
+  - American Dental Association Webinar: Presentation Links (in order of appearance)
+    - [Deputy National Coordinator Steve Posnack’s blog on advisory opinion authority](https://www.healthit.gov/buzz-blog/information-blocking/information-blocking-and-the-presidents-fy23-budget-for-onc)
+    - [ONC’s Report Information Blocking Portal](https://healthit.gov/report-info-blocking)
+    - [ONC’s Health IT Feedback and Inquiry Portal](https://www.healthit.gov/feedback)
+    - [IB FAQ](https://www.healthit.gov/faq/do-information-blocking-regulations-require-actors-have-or-use-certified-health-it-or-upgrade)
+    - [IB FAQs](https://www.healthit.gov/faq/it-information-blocking-when-state-law-requires-specific-delay-communication-ehi-or-certain ohttps://www.healthit.gov/faq/when-state-or-federal-law-or-regulation-such-hipaa-privacy-rule-requires-ehi-be-released-no ohttps://www.healthit.gov/faq/would-not-complying-another-law-implicate-information-blocking-regulation)
+    - [Health Care Provider Definitions](https://www.healthit.gov/sites/default/files/page2/2020-08/Health_Care_Provider_Definitions_v3.pdf•   IB Actors fact sheet: https://www.healthit.gov/sites/default/files/page2/2020-03/InformationBlockingActors.pdf)
+  - Additional EHI Resources
+    - Health IT Buzz Blogs:
+      - [Say Hi to EHI](https://www.healthit.gov/buzz-blog/information-blocking/say-hi-to-ehi)
+      - [Eight Regulatory Reminders for October 6th](https://www.healthit.gov/buzz-blog/information-blocking/information-blocking-eight-regulatory-reminders-for-october-6th)
+    - [Understanding EHI Fact Sheet••](https://www.healthit.gov/sites/default/files/page2/2021-12/Understanding_EHI.pdf)
+    - [Understanding EHI Infographic](https://www.healthit.gov/sites/default/files/page2/2021-12/Understanding_EHI-Scope-Diagram.pdf)
+    - [EHI FAQs](https://www.healthit.gov/faqs?f%5B0%5D=subtopic%3A7026)
+
 - The [Findable Accessible Interoperable Reusable Open Science Research Coordination Networks (FAIROS RCN)](https://www.nsf.gov/pubs/2022/nsf22553/nsf22553.htm) program seeks to create three-year Research Coordination Networks (RCNs) which will foster catalytic improvements in scientific communities focusing on the FAIR (Findability, Accessibility, Interoperability, and Reuse) guiding principles and Open Science best practices. (2022)
 - [NIH Fast Healthcare Interoperability Resources® Initiatives](https://datascience.nih.gov/fhir-initiatives): The Office of Data Science Strategy (ODSS) is promoting the use of Fast Healthcare Interoperability Resources (FHIR®) to facilitate research involving the integration of clinical and observational data.
 - The [NIH Cloud Platform Interoperability Effort](https://datascience.nih.gov/nih-cloud-platform-interoperability-effort) seeks to create a federated genomic data ecosystem and is a collaborative project between NIH and external partners.
