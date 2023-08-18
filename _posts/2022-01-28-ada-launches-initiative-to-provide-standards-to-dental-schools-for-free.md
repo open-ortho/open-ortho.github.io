@@ -2,7 +2,7 @@
 layout: post
 title: ADA launches initiative to provide standards to dental schools for free
   in April 2006
-date: 2006-03-31 16:26:11.000000000 -05:00
+date: 2022-01-28
 type: post
 parent_id: '0'
 published: true
@@ -11,13 +11,7 @@ status: publish
 categories:
 - Posts
 - Publications
-tags: [article]
-meta:
-  _edit_last: '10097356'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_public: '1'
+tags: [ada_news]
 author:
   login: antoniomagni
   email: wordpress@antoniomagni.com
