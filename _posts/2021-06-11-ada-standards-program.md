@@ -1,7 +1,7 @@
 ---
 date: 2021-06-11
 title: ADA Standards Program Overview
-author.display_name: Toni Magnis
+author.display_name: Toni Magni
 ---
 
 [Cached PDF version of original article.]({{ site.baseurl }}/assets/2021/06/ADA_Standards_Program_Overview.pdf)
