@@ -1,4 +1,7 @@
 ---
+layout: post
+type: post
+tags: [hl7]
 date: 2006-01-16
 title: HL7 white paper revised
 author.display_name: Toni Magni
