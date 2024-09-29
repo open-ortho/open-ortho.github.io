@@ -9,6 +9,11 @@ permalink: /resources/
 - [Slides](https://open-ortho.github.io/ACT-12.4.1) of presentations.
 - [Orthodontic Photos Video Presentation](https://youtu.be/7fZIQxOjb6c): a video we produced to apply for the American Association of Orthodontics Innovators Award.
 
+## Books
+
+- [Tim Benson, Grahame Grieve. Principles of Health Interoperability: FHIR, HL7 and SNOMED CT](https://a.co/d/hhtbYZn)
+- [Dr. David A. Clunie. "DICOM Structured Reporting"](https://www.pixelmed.com/srbook.html)
+
 ## Articles 
 
 - [Taneva, Emilia, Budi Kusnoto, and Carla A. Evans. "3D scanning, imaging, and printing in orthodontics." Issues in contemporary orthodontics 148.5 (2015): 862-7.](https://www.intechopen.com/chapters/48165) - [Local PDF Here]({% link assets/img/2015_3D_Scanning,_Imaging,_and_Printing_in_Orthodontics.pdf %})
