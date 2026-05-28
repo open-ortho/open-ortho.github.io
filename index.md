@@ -9,7 +9,7 @@ title: Correct Open Software for Healthcare
 
 "Ortho" comes from the Greek *ὀρθός* — meaning **correct** or **proper**. Open-Ortho is not limited to ortho- medical specialities like orthodontics or orthopaedics. It is about **correct open software**: software built on open, public standards, for all clinical and medical providers.
 
-Our mission is to **restore clinical autonomy to healthcare providers through true interoperability.**
+Our mission is to **restore clinical autonomy to healthcare providers through true [interoperability]({% link _pages/interoperability.md %}).**
 
 ---
 
@@ -41,13 +41,13 @@ The result: providers have less control over their clinical workflows today than
 
 The problem is not the software vendors. It is the ecosystem — and what vendors have been taught to believe about how to make money.
 
-Vendor lock-in is a well-established and genuinely effective business model. Once a provider is deeply integrated into a platform, switching costs are enormous. Vendors know this, and naturally build around it. This is not malice — it is rational behavior in the absence of a better model. What most vendors have not yet considered is that interoperability-based business models exist, have been proven in other industries, and have the potential to explode the market rather than carve it up.
+Vendor lock-in is a well-established and genuinely effective business model. Once a provider is deeply integrated into a platform, switching costs are enormous. Vendors know this, and naturally build around it. This is not malice — it is rational behavior in the absence of a better model. What most vendors have not yet considered is that interoperability-based business models exist, have been proven in other industries, and have the potential to explode the market rather than carve it up. [See how open standards change the economics for vendors →]({% link _pages/vendors.md %})
 
 History is full of industries that made this transition. Screws and bolts were once proprietary to each manufacturer — until thread standards emerged and hardware became interchangeable. Electrical outlets, train gauges, shipping pallets, and telephone signaling all went through the same shift: fragmentation first, then standardization, then an explosion in trade, tooling, and innovation that no single proprietary player could have achieved alone. Global market has skyrocketed.
 
 Shipping containers are perhaps the clearest example. Before them, freight moved as loose cargo — individual bags, boxes, and crates loaded and unloaded by hand, with goods lost, stolen, or damaged along the way. Standardized containers changed everything. Today, if you asked a courier to ship your goods without using standard containers, they would not negotiate a workaround. They would tell you to deliver it yourself — because no serious logistics operation would regress to that world.
 
-That is the world we want for clinical software. And the state we are in today — before that shift — is exactly the state freight was in before the container.
+That is the world we want for clinical software. And the state we are in today — before that shift — is exactly the state freight was in before the container. [Read more about how standardization transformed other industries →]({% link _pages/what.md %})
 
 ---
 
@@ -55,7 +55,7 @@ That is the world we want for clinical software. And the state we are in today �
 
 We believe in a healthcare software ecosystem built on open standards — where products speak a common language by default.
 
-Standards like [FHIR](https://www.hl7.org/fhir/) and [DICOM](https://www.dicomstandard.org/) already exist. They are proven, widely adopted in adjacent fields, and ready to use. What is missing is the expectation that vendors will use them.
+Standards like [HL7 FHIR](https://www.hl7.org/fhir/), [DICOM](https://www.dicomstandard.org/), [IHE](https://www.ihe.net/) profiles, [LOINC](https://loinc.org/), [SNOMED CT](https://www.snomed.org/) / SNODENT, and the EU's [EHDS](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space_en) framework already exist. They are proven, widely adopted in adjacent fields, and ready to use. What is missing is the expectation that vendors will use them.
 
 In the world we are working toward:
 
@@ -63,6 +63,16 @@ In the world we are working toward:
 - Providers **pick and choose** the tools that fit their practice, and connect them like building blocks into their own clinical network.
 - Asking a vendor to connect via a proprietary API is met with the same reaction as asking a courier to ship without containers — it simply would not be done.
 - Vendors benefit too: they can sell individual modules to anyone, while still offering bundled platforms — reaching **orders of magnitude larger markets** than today.
+
+[Our full vision →]({% link _pages/vision.md %})
+
+---
+
+## The Research Problem
+
+Clinical data locked in proprietary silos does not just hurt individual providers — it stunts medical research. Studies that could reach tens of thousands of patients across many practices are impossible today because harmonizing fragmented, non-standardized data is prohibitively expensive; open standards would not fix this overnight, but they would steadily make it feasible.
+
+[The research case for interoperability →]({% link _pages/research.md %})
 
 ---
 
