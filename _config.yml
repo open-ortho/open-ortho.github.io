@@ -12,6 +12,15 @@ collections:
   pages:
     output: true
 
+exclude:
+  - flake.nix
+  - flake.lock
+  - README.md
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
 # google_analytics: [Your Google Analytics tracking ID]
 
 github:
