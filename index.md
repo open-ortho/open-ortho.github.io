@@ -76,6 +76,14 @@ Clinical data locked in proprietary silos does not just hurt individual provider
 
 ---
 
+## Part of a Broader Movement
+
+Open-Ortho is not alone. From the openEHR Foundation to SMART Health IT, a growing number of organizations share the conviction that clinical software must be built on open standards. [See how we relate to — and differ from — the other initiatives in this space →]({% link _pages/ecosystem.md %})
+
+Current contributors include members of **ADA SC WG 11.6** and **medoco HEALTH**. [Meet the contributors →]({% link _pages/contributors.md %})
+
+---
+
 ## [Why This Matters]({% link _pages/why.md %})
 
 ## [The Problem in Depth]({% link _pages/connecting.md %})
