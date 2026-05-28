@@ -2,3 +2,13 @@ Gemfile.lock
 vendor
 _site
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
