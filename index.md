@@ -1,82 +1,86 @@
 ---
 layout: page
-title: Software interoperability for Orthodontics
+title: Correct Open Software for Healthcare
 ---
 
 ---
 
-## Interoperability Survery for Vendors
+## What is Open-Ortho?
 
-If you are a vendor, please fill out the [AAO interoperability survey](https://survey.alchemer.com/s3/7255096/Orthodontic-Software-Interoperability-Survey).
+"Ortho" comes from the Greek *ὀρθός* — meaning **correct** or **proper**. Open-Ortho is not limited to ortho- medical specialities like orthodontics or orthopaedics. It is about **correct open software**: software built on open, public standards, for all clinical and medical providers.
+
+Our mission is to **restore clinical autonomy to healthcare providers through true interoperability.**
 
 ---
 
-Our mission is to bring sustainable interoperability to the people in the orthodontic domain.
+## A Freedom That Was Lost
 
-## [A Problem]({% link _pages/connecting.md %})
+Before software, providers were in control of their own workflows.
 
-![Two medical staff members can't connect their devices together.](./assets/img/NoOrthoCompatibility_Plug.jpg "No Compatibility")
+If a clinician wanted to optimize their charting process — perhaps after a conference, or a conversation with a colleague — they could simply do it. Redesign the form, take it to the printer, have a thousand copies made, and be in production with the improved version within a week.
 
-As of 2021, it is astoundingly still very difficult to set up two or more orthodontic software products to communicate with each other. Most software products are unable to communicate effectively and openly with other software products from other vendors, creating closed, isolated silos of data. This causes trivial everyday tasks to be unnecessarily time consuming, repetitive, error-prone and tedious.
+That freedom is gone.
 
-## [Another Problem]({% link _pages/data_sharing.md %})
+---
 
-![Two doctors have to look over each other's screen to share information.](./assets/img/NoOrthoCompatibility_Screen.jpg "No Compatibility")
+## Today's Reality
 
-As of 2023, it is also astoundingly very difficult to share information between different medical institutions. Several portals exist, however most (all?) of them work with a limited set of institutions, and these portals don't communicate with each other.
+Providers today settle for whichever software best covers their needs — which typically means the areas tied to revenue. Everything else is left to chance.
 
-Let's compare this for a moment with how email works: with email any company can set up their email servers and exchange email with any end user and any other company's email server.
+When a provider wants to improve a workflow that their software does not handle well, their options are bleak:
 
-Why can't we do the same for orthodontic data?
+- **Submit a feature request** — which, in the best case, enters a queue and gets implemented only if enough other users ask for the same thing. The vast majority of ideas are never built.
+- **Find a product that does it** — only to discover that the feature they want is bundled inside an entire monolithic platform. Purchasing the whole platform is often economically unfeasible, and even if they do, there is still no sustainable way to connect it to their existing software.
+- **Commission a custom integration** — which ends up being prohibitively expensive, fragile, and difficult to maintain.
 
-## [More Problems]({% link _pages/why.md %})
+The result: providers have less control over their clinical workflows today than they did in the paper era.
 
-## [Solution]({% link _pages/what.md %})
+---
 
-We believe informatics standards like DICOM, HL7 and SNOMED/SNODENT to be an effective solution to orthodontic software isolation. Permanent changes can happen in a community when the vast majority of the community members are on board and willing to make the change. Our plan to turn this into a reality includes:
+## The Root Cause: Proprietary Lock-In
+
+The problem is not the software vendors. It is the ecosystem — and what vendors have been taught to believe about how to make money.
+
+Vendor lock-in is a well-established and genuinely effective business model. Once a provider is deeply integrated into a platform, switching costs are enormous. Vendors know this, and naturally build around it. This is not malice — it is rational behavior in the absence of a better model. What most vendors have not yet considered is that interoperability-based business models exist, have been proven in other industries, and have the potential to explode the market rather than carve it up.
+
+History is full of industries that made this transition. Screws and bolts were once proprietary to each manufacturer — until thread standards emerged and hardware became interchangeable. Electrical outlets, train gauges, shipping pallets, and telephone signaling all went through the same shift: fragmentation first, then standardization, then an explosion in trade, tooling, and innovation that no single proprietary player could have achieved alone. Global market has skyrocketed.
+
+Shipping containers are perhaps the clearest example. Before them, freight moved as loose cargo — individual bags, boxes, and crates loaded and unloaded by hand, with goods lost, stolen, or damaged along the way. Standardized containers changed everything. Today, if you asked a courier to ship your goods without using standard containers, they would not negotiate a workaround. They would tell you to deliver it yourself — because no serious logistics operation would regress to that world.
+
+That is the world we want for clinical software. And the state we are in today — before that shift — is exactly the state freight was in before the container.
+
+---
+
+## Our Vision
+
+We believe in a healthcare software ecosystem built on open standards — where products speak a common language by default.
+
+Standards like [FHIR](https://www.hl7.org/fhir/) and [DICOM](https://www.dicomstandard.org/) already exist. They are proven, widely adopted in adjacent fields, and ready to use. What is missing is the expectation that vendors will use them.
+
+In the world we are working toward:
+
+- Vendors build **focused products** that solve specific problems well, and expose them through open standard interfaces.
+- Providers **pick and choose** the tools that fit their practice, and connect them like building blocks into their own clinical network.
+- Asking a vendor to connect via a proprietary API is met with the same reaction as asking a courier to ship without containers — it simply would not be done.
+- Vendors benefit too: they can sell individual modules to anyone, while still offering bundled platforms — reaching **orders of magnitude larger markets** than today.
+
+---
+
+## [Why This Matters]({% link _pages/why.md %})
+
+## [The Problem in Depth]({% link _pages/connecting.md %})
+
+## [Our Solution]({% link _pages/what.md %})
 
 ## [Strategic Plan]({% link _pages/how.md %})
 
-- Facilitate adoption of standards through education and simplification.
-- Aim efforts to all actors of the orthodontic community:
+- Facilitate adoption of open standards through education and simplification.
+- Engage all actors in the clinical community:
   - [doctors]({% link _pages/doctors.md %})
   - [associations]({% link _pages/associations.md %})
-  - [standard developing organizations]({% link _pages/associations.md %})
+  - [standards organizations]({% link _pages/sdo.md %})
   - [IT teams]({% link _pages/it-teams.md %})
-  - [schools]({% link _pages/academia.md %})
-  - [students]({% link _pages/academia.md %})
+  - [schools and students]({% link _pages/academia.md %})
   - [vendors]({% link _pages/vendors.md %})
 
 See [How it can be done]({% link _pages/how.md %}) for details.
-
-<!-- TODO: Add graphical representation of timeline
-
-- 2021-Q2 Implementation of VNA on beta practices
-- 2021-Q3
-- 2021-Q4
-- 2022-Q1 Development and implementation of efficiency measurement system
-- 2022-Q2 Development of Standards for Photography (DICOM, SNODENT)
-- 2022-Q3 Implementation of Photographic standards (open-source, github)
-- 2022-Q4 Development and implementation of first photographic archiving application: DICOM ortho-photo-archiver
-- 2023-Q1 Comparison of efficiency between pre and post DICOM ortho-photo-archiver: publication of findings.
-- Development and implementation of first photographic acquisition application: DICOM ortho-photo acquirer
-- Development of Standards for 2D Radiographs (cephalograms/panoramic x-rays) (DICOM, SNODENT, IHE, ...)
-- Development of tools to convert flat cephalograms into DICOM and store in VNA: DICOM ortho-ceph-archiver
-- 2023-Q2 First orthodontic interoperability booth at AAO
-- 2023-Q3
-- 2023-Q4
-- 2024-Q1
-- 2024-Q2
-- 2024-Q3
-- 2024-Q4
-- 2025-Q2 First orthodontic Connectathon at AAO
-
--->
-
-<!-- ## Values
-
-TODO: Add Values. -->
-
-<!-- ## Who we are
-
-TODO: Add list of who we are. -->
