@@ -3,13 +3,13 @@ layout: page
 title: Software interoperability for Orthodontics
 ---
 
------
+---
 
-## Interoperability Survery for Vendors 
+## Interoperability Survery for Vendors
 
 If you are a vendor, please fill out the [AAO interoperability survey](https://survey.alchemer.com/s3/7255096/Orthodontic-Software-Interoperability-Survey).
 
------
+---
 
 Our mission is to bring sustainable interoperability to the people in the orthodontic domain.
 
@@ -39,13 +39,13 @@ We believe informatics standards like DICOM, HL7 and SNOMED/SNODENT to be an eff
 
 - Facilitate adoption of standards through education and simplification.
 - Aim efforts to all actors of the orthodontic community:
-    - [doctors]({% link _pages/doctors.md %})
-    - [associations]({% link _pages/associations.md %})
-    - [standard developing organizations]({% link _pages/associations.md %})
-    - [IT teams]({% link _pages/it-teams.md %})
-    - [schools]({% link _pages/academia.md %})
-    - [students]({% link _pages/academia.md %})
-    - [vendors]({% link _pages/vendors.md %})
+  - [doctors]({% link _pages/doctors.md %})
+  - [associations]({% link _pages/associations.md %})
+  - [standard developing organizations]({% link _pages/associations.md %})
+  - [IT teams]({% link _pages/it-teams.md %})
+  - [schools]({% link _pages/academia.md %})
+  - [students]({% link _pages/academia.md %})
+  - [vendors]({% link _pages/vendors.md %})
 
 See [How it can be done]({% link _pages/how.md %}) for details.
 
