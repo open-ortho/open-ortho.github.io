@@ -25,6 +25,8 @@ That freedom is gone.
 
 ## Today's Reality
 
+![Two clinical providers attempting to connect devices with incompatible connectors.](./assets/img/NoOrthoCompatibility_Plug.jpg "Incompatible systems")
+
 Providers today settle for whichever software best covers their needs — which typically means the areas tied to revenue. Everything else is left to chance.
 
 When a provider wants to improve a workflow that their software does not handle well, their options are bleak:
@@ -32,6 +34,8 @@ When a provider wants to improve a workflow that their software does not handle 
 - **Submit a feature request** — which, in the best case, enters a queue and gets implemented only if enough other users ask for the same thing. The vast majority of ideas are never built.
 - **Find a product that does it** — only to discover that the feature they want is bundled inside an entire monolithic platform. Purchasing the whole platform is often economically unfeasible, and even if they do, there is still no sustainable way to connect it to their existing software.
 - **Commission a custom integration** — which ends up being prohibitively expensive, fragile, and difficult to maintain.
+
+![Two clinicians leaning over to share information by looking at each other's screens.](./assets/img/NoOrthoCompatibility_Screen.jpg "Workarounds instead of interoperability")
 
 The result: providers have less control over their clinical workflows today than they did in the paper era.
 
