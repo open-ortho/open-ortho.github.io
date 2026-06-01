@@ -87,7 +87,7 @@ _Source: [Open standard is the new open source — JAMIA Open, 2022](https://www
 
 ## Where Open-Ortho fits
 
-The initiatives above have done — and continue to do — important, serious work. But look closely at where that work is concentrated: hospitals, public health systems, and large institutional environments. That is where the regulatory pressure, the funding, and the market size have historically pointed. FHIR mandates in the US apply to hospitals and insurers. openEHR deployments are typically in national or regional health systems. SMART on FHIR is embedded in enterprise EHRs. The big players are increasingly covered.
+The initiatives above have done — and continue to do — important, serious work. work that is concentrated primarily hospitals, public health systems, and large institutional environments. That is where the regulatory pressure, the funding, and the market size have historically pointed. FHIR mandates in the US apply to hospitals and insurers. openEHR deployments are typically in national or regional health systems. SMART on FHIR is embedded in enterprise EHRs. The big players are increasingly covered.
 
 The domains that remain almost entirely untouched are the smaller, specialty clinical environments that sit outside the hospital ecosystem: dental practices, orthodontic offices, dermatology clinics, cardiology practices, and dozens of other specialties where providers operate independently or in small groups. These sectors represent an enormous portion of all clinical encounters — and an enormous gap.
 
